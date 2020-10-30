@@ -245,6 +245,13 @@
     margin: -250px 0 0 -400px;
     z-index: 9999;
   }
+
+  .case-img {
+    width: 100% !important;
+    height: 550px !important;
+    display: block;
+    object-fit: cover;
+  }
 }
 
 @media screen and (min-width: 1200px) {
